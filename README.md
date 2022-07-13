@@ -3,6 +3,8 @@
 A simple solar system simulation made with python, pygame and pymunk.
 Just for fun - to see how gravitational forces could work - and to play around.
 
+Demo video: <a href="https://www.youtube.com/watch?v=WyyJNSKWbjk">Solar System Simulation (2D)</a>
+
 Works with >= python3.7.
 
 ---
