@@ -27,3 +27,11 @@ python solar_system.py
 2. Rightclick to add a planet.
 3. Middleclick to move the sun (and the center of the gravitational pull)
 4. Enjoy! 🚀
+
+## How it is implemented
+
+-   Objects that spawn do not have any initial velocity.
+-   Objects will have a random mass and random radius.
+-   The mass depends on the radius.
+-   The mass of the sun is way bigger than that of any object.
+-   Objects that are farther than 2500 units away from the sun will be removed.
