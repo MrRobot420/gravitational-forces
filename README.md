@@ -28,6 +28,8 @@ python solar_system.py
 3. Middleclick to move the sun (and the center of the gravitational pull)
 4. Enjoy! 🚀
 
+---
+
 ## How it is implemented
 
 -   Objects that spawn do not have any initial velocity.
