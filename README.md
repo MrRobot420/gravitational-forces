@@ -37,3 +37,5 @@ python solar_system.py
 -   The mass depends on the radius.
 -   The mass of the sun is way bigger than that of any object.
 -   Objects that are farther than 2500 units away from the sun will be removed.
+-   Pymunk makes it easy to access shapes body.position and body.velocity.
+-   This helps in applying the gravitational force.
